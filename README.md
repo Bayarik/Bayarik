@@ -1,11 +1,13 @@
-### Hi there, I'm Bayar 👋
+<h1 align="center">Hi there, I'm <a href="https://t.me/bayarik" target="_blank">Bayar</a> 
+
+<h3 align="center">Fullstack-developer</h3>
 
 <div align="center" id="значки"> 
   <a href="https://www.linkedin.com/in/bayar-malkhanov-b46520248/"> <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logoColor=white" alt="bayarik"/> </a> 
   <a href="https://t.me/bayarik"> <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a>
 </div>
-<!--
-**Bayarik/Bayarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **Bayarik/Bayarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
+**  -->
