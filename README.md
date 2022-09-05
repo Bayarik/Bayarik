@@ -5,7 +5,7 @@
 <div align="center" id="значки"> 
   <a href="https://www.linkedin.com/in/bayar-malkhanov-b46520248/"> <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logoColor=white" alt="Linkedin"/> </a> 
   <a href="https://t.me/bayarik"> <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a>
-  <a href="https://mailto:bayar.malkhanov@mail.ru/"> <img src="https://img.shields.io/badge/email-black?style=for-the-badge&logoColor=white" alt="Email"/> </a> 
+  <a href="mailto:bayar.malkhanov@mail.ru/"> <img src="https://img.shields.io/badge/email-black?style=for-the-badge&logoColor=white" alt="Email"/> </a> 
 </div>
 
 ## Tech Stack
